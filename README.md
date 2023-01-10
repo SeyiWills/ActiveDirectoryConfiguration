@@ -22,10 +22,18 @@
     
   <h2> 5. Configuring DHCP Server </h2>
   
-  <img src="ConfigDHCPServer.png>
+  <img src="ConfigDHCPServer.png" >
     
     
+ <h2> 6. Enabling PowerShell script </h2>
  
+  <img src="EnablingScripts.png" >
+  
+  <h2> PowerShell Script creats users in AD <h2>
+  
+  <img src= "UsersinADwithPS.png" >
+      
+     
  
  
 
