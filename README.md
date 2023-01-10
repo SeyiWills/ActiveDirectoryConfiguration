@@ -8,6 +8,14 @@
  
  <img src="WindowsServerVM.png" height="500" >
  
- <h2> 2. Setting up Active Directory Domain Services </h2>
+ <h2>2. Setting up Active Directory Domain Services </h2>
  
  <img src="SettingUpAD.png" >
+ 
+ <h2>3. Creating Organization Unit in AD <h2>
+ 
+ <img src="CreatingOUforAdmin" >
+ 
+ 
+ 
+
