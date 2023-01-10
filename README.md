@@ -14,7 +14,19 @@
  
  <h2>3. Creating Organization Unit in AD <h2>
  
- <img src="CreatingOUforAdmin" >
+ <img src="CreatingOUforAdmin.png" >
+  
+  <h2>4. Setting up RAS and NAT <h2>
+   
+   <img src="SettingUpRASandNAT.png">
+    
+  <h2> Congfiguring DHCP Server <h2>
+    
+    <img src="ConfigDHCPServer.png">
+    
+    <h2> Enabling PowerShell script <h2>
+      
+      <img src="EnablingScripts.png">
  
  
  
